@@ -5,7 +5,7 @@ OpenXLT
 *OpenXLT* is a free, open-source C++ program for the conversion of EEG data from the Natus XLTek file format to formats readable by other programs. Currently, only the .mat file format is supported for exporting.
 
 ### Usage
-For the packaged executables to work correctly, your system must have Matlab installed and the proper Environment variables set. See [this page](http://www.mathworks.com/help/matlab/matlab_external/compiling-engine-applications-with-the-mex-command.html) for details.
+For the compilation to work correctly, your system must have Matlab installed and the proper Environment variables set. See [this page](http://www.mathworks.com/help/matlab/matlab_external/compiling-engine-applications-with-the-mex-command.html) for instructions.
 
 On a UNIX system, execute the following:
 ```
